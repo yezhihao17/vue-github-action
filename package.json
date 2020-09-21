@@ -2,7 +2,7 @@
   "name": "vue-github-action",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yezhihao17.github.io/",
+  "homepage": "https://yezhihao17.github.io/vue-github-action",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
